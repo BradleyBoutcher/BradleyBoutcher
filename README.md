@@ -3,7 +3,11 @@
 
 <a href="https://github.com/BradleyBoutcher?tab=overview&from=2020-11-01&to=2020-12-30" alt="Contributors">
         <img src="https://img.shields.io/badge/I voted!-2020-blue" /></a>
-        
+   
+<a href="https://github.com/BradleyBoutcher?tab=overview&from=2020-11-01&to=2020-12-30" alt="Contributors">
+        <img src="https://img.shields.io/badge/BLM-%E2%9C%8A-black" /></a>
+   
+    
 ## Getting started 👋
 Welcome to the `BradleyBoutcher` project! Let's run a few commands to get to know eachother...
 
