@@ -8,7 +8,7 @@
 Welcome to the `BradleyBoutcher` project! Let's run a few commands to get to know eachother...
 
 ### $ whoami  
-👨‍💻 & 🎭 Bradley Boutcher is a software engineer and professional stage actor in the Greater Boston area  
+Bradley Boutcher is a software engineer 👨‍💻 and professional stage actor in the Greater Boston area 🎭 
 
 ### $ pronouns  
 he / him / his
