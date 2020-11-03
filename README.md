@@ -2,8 +2,7 @@
 Welcome to the `BradleBoutcher` project! Here are a few examples for what you can do with the `BradleyBoutcher` CLI extension.
 
 ### $ whoami  
-Bradley Boutcher is a software engineer and professional stage actor in the Greater Boston area  
-👨‍💻 & 🎭
+👨‍💻 & 🎭 Bradley Boutcher is a software engineer and professional stage actor in the Greater Boston area  
 
 ### $ pronouns  
 he / him / his
