@@ -8,11 +8,11 @@
         <img src="https://img.shields.io/badge/BLM-%E2%9C%8A-black" /></a>
    
     
-## Getting started 👋
+## Getting started
 Welcome to the `BradleyBoutcher` project! Let's run a few commands to get to know eachother...
 
 ### $ whoami  
-Bradley Boutcher is a software engineer 👨‍💻 and professional stage actor in the Greater Boston area 🎭 
+Bradley Boutcher is a software engineer 👨‍💻 and professional stage actor 🎭 in the Greater Boston area  
 
 ### $ pronouns  
 he / him / his
@@ -43,7 +43,7 @@ contributing 🌊, and getting-started guides for getting started on your first 
 ### Are you open to collaboration? 👯
 🤝 Yes! Shoot me a message if you have a project you'd like help with. 
 
-### What can I ask you about? 
+### What can I ask you about? 🤔
 💪 Best-practices for Git Workflows, Goland, and Bash Scripting
 
 🎭 How theatre and programming are both used to tell stories
