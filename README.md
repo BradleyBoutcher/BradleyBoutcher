@@ -35,7 +35,9 @@ has details on best-practices for multiple languages, workflows for contributing
 
 ### What can I ask you about? 
 💪 Best-practices for Git Workflows, Goland, and Bash Scripting
+
 🎭 How theatre and programming are both used to tell stories
+
 🙋 Improving community contributions and interactions
 
 ### Does `BradleyBoutcher` have any known bugs? 👾
