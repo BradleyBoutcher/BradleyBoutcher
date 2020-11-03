@@ -31,9 +31,12 @@ project for open-source contributions, which has details on best-practices for m
 contributing 🌊, and getting-started guides for getting started on your first commit 🧗‍♂️!
 
 ### $ history  
-[brdly.org](https://github.com/BradleyBoutcher/brdly.org) - A URL Shortening service written in Express.js and React.js! Prioritizes security 🔒 and speed ⚡, with a nifty responsive UI 📱 to boot!  
-[WordCounter](https://github.com/BradleyBoutcher/WordCounter) - A Java-based interactive tool for aggregating word count across one or more files 📚. Uses asynchronous parsing methods and a combination of builder and state patterns ⚒️.
-[Summon Keyvault](https://github.com/BradleyBoutcher/summon-keyvault) - An extension for [Summon](https://github.com/cyberark/summon) written in Golang that allows for the retrieval of Azure Keyvault Secrets 🤫
+[brdly.org](https://github.com/BradleyBoutcher/brdly.org) - A URL Shortening service written in Express.js and React.js! Prioritizes security 🔒 and 
+speed ⚡, with a nifty responsive UI 📱 to boot!  
+[WordCounter](https://github.com/BradleyBoutcher/WordCounter) - A Java-based interactive tool for aggregating word count across one or more files 📚. 
+Uses asynchronous parsing methods and a combination of builder and state patterns ⚒️.
+[Summon Keyvault](https://github.com/BradleyBoutcher/summon-keyvault) - An extension for [Summon](https://github.com/cyberark/summon) written in 
+Golang that allows for the retrieval of Azure Keyvault Secrets 🤫
 
 ## Metadata
 
