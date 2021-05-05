@@ -18,8 +18,8 @@ Bradley Boutcher is a software engineer 👨‍💻 and professional stage actor
 he / him / his
 
 ### $ where_are_you  
-Bradley is currently a Software Engineer at Cyberark,  
-building the latest-and-greatest tools with the Community & Integrations Team 🧰
+Bradley is currently a Software Engineer at DraftKings,  
+building the latest-and-greatest tools with the Payments & Withdrawals Team 💸
 
 ### $ what current_projects  
 I’m currently working on open-source integrations for projects like  
