@@ -1,11 +1,5 @@
-<a href="https://github.com/BradleyBoutcher?tab=overview&from=2020-11-01&to=2020-12-30" alt="Contributors">
-        <img src="https://img.shields.io/badge/2020%20Contributions-500%2B-red" /></a>
+[![Bradleys's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradleyBoutcher&show_icons=true&theme=radical&hide=stars)](https://github.com/BradleyBoutcher/github-readme-stats)
 
-<a href="https://github.com/BradleyBoutcher?tab=overview&from=2020-11-01&to=2020-12-30" alt="Contributors">
-        <img src="https://img.shields.io/badge/I voted!-2020-blue" /></a>
-   
-<a href="https://github.com/BradleyBoutcher?tab=overview&from=2020-11-01&to=2020-12-30" alt="Contributors">
-        <img src="https://img.shields.io/badge/BLM-%E2%9C%8A-black" /></a>
    
     
 ## Getting started
@@ -20,10 +14,6 @@ he / him / his
 ### $ where_are_you  
 Bradley is currently a Software Engineer at DraftKings,  
 building the latest-and-greatest tools with the Payments & Withdrawals Team 💸
-
-### $ what current_projects  
-I’m currently working on open-source integrations for projects like  
-[Secretless Broker](https://github.com/cyberark/secretless-broker) and [Summon](https://github.com/cyberark/summon)!
 
 ### $ best_practices
 Bradley has helped write and maintain the [Cyberark Conjur Community](https://github.com/cyberark/community/tree/master/Conjur) 
